@@ -9,7 +9,9 @@ linkedPhrases a b c =
     a ++ " convidou " ++ b ++ " para dormir na mesma cama",
     a ++ " se aliou ao PCC",
     a ++ " esta doente",
-    "Vai assumir? " ++ a ++ " e " ++ b ++ " foram avistados aos em beijos em uma balada em " ++ c,
-    a ++ " nega as acusações de assédio",
-    "Epic Games confirma nova skin de " ++ a ++ " no Fortnite"
+    "Vai assumir? " ++ a ++ " e " ++ b ++ " foram avistados aos beijos em uma balada de " ++ c,
+    a ++ " mamou " ++ b,
+    "Epic Games confirma nova skin de " ++ a ++ " no Fortnite",
+    a ++ " + " ++ b ++ " = vai dar namoro!",
+    a ++ " teve envolvimento direto com o 11 de setembro"
   ]
